@@ -1,5 +1,5 @@
 # Chatbot
-  This is a **python** based project
+  This is a **python** based project.
   **Features**
     1. Computing of relative deltas (next month, next year, next Monday, last week of month, etc).
     2. Computing of relative deltas between two given date and/or datetime objects.
