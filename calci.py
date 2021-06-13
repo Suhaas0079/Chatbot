@@ -5,7 +5,7 @@ import webbrowser
 import wolframalpha
 def calci(ui):
 # Taking input from user
-# App id obtained by the above steps
+# App id has to be taken from wolfarm alpha website
     app_id = "******************"
 # Instance of wolf ram alpha
 # client class
