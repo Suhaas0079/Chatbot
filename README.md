@@ -1,14 +1,16 @@
 # Chatbot
   This is a **python** based project.
   **Features**
-    1. Computing of relative deltas (next month, next year, next Monday, last week of month, etc).
-    2. Computing of relative deltas between two given date and/or datetime objects.
-    3. Computing of dates based on very flexible recurrence rules, using a superset of the iCalendar specification. Parsing of RFC strings is supported as well.
-    4. Generic parsing of dates in almost any string format.
-    5. Timezone (tzinfo) implementations for tzfile(5) format files (/etc/localtime, /usr/share/zoneinfo, etc), TZ environment string (in all known formats), iCalendar format            files, given ranges (with help fromdeltas), local machine timezone, fixed offset timezone, UTC timezone, and Windows registry-based time zones.
-    6. Internal up-to-date world timezone information based on Olson’s database.
-    7. Computing of Easter Sunday dates for any given year, using Western, Orthodox or Julian algorithms.
-    8. A comprehensive test suite. 
+    1.can calculate an expression or if the expression in in sentence
+    2.can give system time
+    3.can give system date
+    4.can give weather of your present location
+    5.can do basic interaction i.e., for "hi" ,"hello" like these
+    6.if no input is given it display empty input
+    7.can do web search
+    8.if the feature is not in the software it will append the input to log file for further development by user
+    9.if given command like "shut down" or "power of " the PC or the computer will shut down
+    10.for statements like "bye" ,"exit" it will terminate the program
   **Conclusion and Future scope**
 This project can be further developed bit by bit by seeing the log file created and appending the feature and removing bugs. We can also implement the code by taking user input through speech instead of typing which reduces the gap between the user and the machine.
 Hence, minimal human interference in the use of devices is the goal of our world of technology. Chatbots can reach out to a broad audience on messaging apps and be more effective than humans are. At the same time, they may develop into a capable information-gathering.
